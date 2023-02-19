@@ -186,3 +186,19 @@ p {
     width: 20%;
     object-fit: cover;
 }
+
+.partners {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 4rem;
+}
+
+.partners__image {
+    display: block;
+    width: 120px;
+    height: auto;
+    margin: auto;
+    margin-bottom: 4rem;
+}
